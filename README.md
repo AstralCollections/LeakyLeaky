@@ -12,7 +12,7 @@ You can read a full blog post about the Telnet leak in this [post](https://secur
 
 ### Tested Devices
 - Lantronix X5P 6.9.0.3
-- LantronixWVRC4+
+- Lantronix WVRC4+
 - Lantronix X9D 2.3.0.0 
 - Lantronix X90 6.9.0.2 
 
